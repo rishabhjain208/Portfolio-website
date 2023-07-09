@@ -28,7 +28,6 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-portfolio.git
 Open the project directory in a code editor of your choice.
 
 Modify the HTML, CSS, and JavaScript files to customize the content, styling, and functionality according to your requirements.
